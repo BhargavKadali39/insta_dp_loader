@@ -1,7 +1,4 @@
-'''
-Use below line to install required python module
-pip install instaloader
-'''
+
 import instaloader
 
 ig = instaloader.Instaloader()
